@@ -1,6 +1,6 @@
 [package]
 name = "rsomics-multi-replace"
-version = "0.1.0"
+version = "0.1.1"
 description = "Multiplicative zero-replacement of a compositional matrix (closure + zero→delta substitution, rows re-sum to 1) — scikit-bio skbio.stats.composition.multi_replace equivalent"
 edition = "2024"
 rust-version = "1.91"
